@@ -22,7 +22,7 @@ h2 {
   font-weight: 400;
   font-size: 20px;
   color: #d5d4d8;
-  line-height: 1.2;
+  line-height: 1.4;
 }
 
 button {
@@ -46,7 +46,7 @@ button {
 }
 
 .container h2 {
-  margin-top: 10px;
+  margin-top: 15px;
 }
 
 .btn {
