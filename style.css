@@ -25,22 +25,16 @@ h2 {
   line-height: 28px;
 }
 
-main {
-  max-width: 670px;
-  background: #1c1c1c;
-  height: 670px;
-  margin: auto;
-  padding: 60px;
-}
-
 button {
   display: inline-block;
 }
 .container {
   background: linear-gradient(#1f2937, #3b4e69);
-  z-index: 1;
   height: 100%;
   padding: 115px 52px;
+  max-width: 550px;
+  height: 550px;
+  margin: auto;
 }
 
 .container h1 {
@@ -92,7 +86,8 @@ button {
 
 @media (max-width: 500px) {
   .container {
-    padding: 50px;
+    padding: 30px 30px;
+    width: 100vw;
   }
 
   .btn {
