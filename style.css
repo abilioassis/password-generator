@@ -85,9 +85,18 @@ button {
 }
 
 @media (max-width: 500px) {
+  h1 {
+    font-size: 30px;
+  }
+
+  h2 {
+    font-size: 15px;
+  }
+
   .container {
     padding: 30px 30px;
     width: 100vw;
+    height: 100vh;
   }
 
   .btn {
