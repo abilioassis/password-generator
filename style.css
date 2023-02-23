@@ -84,7 +84,7 @@ button {
   text-align: center;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 500px) {
   .container {
     padding: 30px 30px;
     width: 100vw;
@@ -101,5 +101,11 @@ button {
 
   .passwords {
     flex-direction: column;
+  }
+}
+
+@media (max-width: 800px) {
+  .container {
+    height: 200vh;
   }
 }
