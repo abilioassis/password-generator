@@ -85,7 +85,7 @@ button {
 }
 
 /* Mobile */
-@media (max-width: 380px) {
+@media (max-width: 500px) {
   .container {
     padding: 30px 30px;
     width: 100vw;
