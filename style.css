@@ -91,6 +91,10 @@ button {
     height: 100vh;
   }
 
+  .container h2 {
+    margin-top: 20px;
+  }
+
   .btn {
     width: 100%;
   }
