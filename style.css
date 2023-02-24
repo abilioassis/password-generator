@@ -73,14 +73,16 @@ button {
 }
 
 .field {
-  flex: 1;
-  background: #273549;
-  height: 40px;
-  border-radius: 6px;
-  color: #55f991;
-  /* padding: 4px 16px; */
-  line-height: 2.4;
   text-align: center;
+  padding: 9px 18px;
+  margin-top: 40px;
+  font-size: 16px;
+  font-weight: 400;
+  color: #55f991;
+  background: #273549;
+  border-radius: 6px;
+  border: none;
+  flex: 1;
 }
 
 /* Mobile */
