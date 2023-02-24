@@ -31,9 +31,8 @@ button {
 .container {
   background: linear-gradient(#1f2937, #3b4e69);
   height: 100%;
-  padding: 115px 52px;
+  padding: 120px 50px;
   max-width: 550px;
-  height: 550px;
   margin: auto;
 }
 
