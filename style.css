@@ -31,7 +31,7 @@ button {
 .container {
   background: linear-gradient(#1f2937, #3b4e69);
   height: 100%;
-  padding: 50px 80px;
+  padding: 30px 30px;
   max-width: 550px;
   margin: auto;
 }
@@ -74,7 +74,7 @@ button {
 
 .field {
   text-align: center;
-  padding: 9px 18px;
+  padding: 0 18px;
   font-size: 16px;
   font-weight: 400;
   color: #55f991;
@@ -82,12 +82,12 @@ button {
   border-radius: 6px;
   border: none;
   flex: 1;
+  line-height: 2.5;
 }
 
 /* Mobile */
 @media (max-width: 500px) {
   .container {
-    padding: 30px 30px;
     width: 100vw;
     height: 100vh;
   }
