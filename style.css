@@ -5,7 +5,7 @@
 }
 
 body {
-  margin: auto;
+  margin: 0 auto;
   font-family: "Inter", sans-serif;
 }
 
@@ -31,7 +31,7 @@ button {
 .container {
   background: linear-gradient(#1f2937, #3b4e69);
   height: 100%;
-  padding: 120px 50px;
+  padding: 80px 50px;
   max-width: 550px;
   margin: auto;
 }
