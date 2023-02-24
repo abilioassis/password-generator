@@ -103,10 +103,3 @@ button {
     flex-direction: column;
   }
 }
-
-/* Tablet */
-@media (max-width: 600px) {
-  .container {
-    padding: 30px 30px;
-  }
-}
