@@ -1,4 +1,4 @@
-# Scrimba Bootcamp - Exclusive Solo Projects
+# Scrimba Bootcamp - Solo Projects
 
 This is a solution to the [M3 - Password Generator](https://scrimba.com/learn/frontend/solo-project-pro-password-generator-cR9B46Sg).
 
@@ -8,7 +8,7 @@ This is a solution to the [M3 - Password Generator](https://scrimba.com/learn/fr
 
 ## Links
 
-- Live Site: [Netlify]()
+- Live Site: [Netlify](https://courageous-froyo-a57937.netlify.app/)
 - Codebase: [Github](https://github.com/abilioassis/password-generator)
 - Code review: [Scrimba]()
 
