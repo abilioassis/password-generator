@@ -10,7 +10,7 @@ This is a solution to the [M3 - Password Generator](https://scrimba.com/learn/fr
 
 - Live Site: [Netlify](https://courageous-froyo-a57937.netlify.app/)
 - Codebase: [Github](https://github.com/abilioassis/password-generator)
-- Code review: [Scrimba]()
+- Code review: [Scrimba](https://scrimba.com/scrim/co2434cb794e2cf6c21dd6b8a)
 
 ## Built with
 

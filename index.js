@@ -102,10 +102,8 @@ const characters = [
  * Generates a random password of passwordLenght characters
  */
 function getPassword() {
-  const pwd1El = document.getElementById("pwd1"),
-    pwd2El = document.getElementById("pwd2");
-  pwd1El.textContent = generatePassword();
-  pwd2El.textContent = generatePassword();
+  const allFields = document.querySelectorAll(".field");
+  allFields.forEach((field) => (field.textContent = generatePassword()));
 }
 
 /**
